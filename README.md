@@ -28,12 +28,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)&nbsp;
   
 ### 👩‍💻 &nbsp;Back-End
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=1572B6)&nbsp;
 
    
 ### 🎨 &nbsp;Front-End
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
    
 
