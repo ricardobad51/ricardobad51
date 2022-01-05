@@ -10,7 +10,8 @@
 <div align="center">
    <h3> CONSTANTE APRENDIZADO </h3>
 </div>
-- 🎓 Formado em **Ciência da Computação** e **MBA em Engenharia de Sistemas**.
+- 🎓 **MBA em Engenharia de Sistemas**.
+- 🎓 **Bacharel em Ciência da Computação**
 
 ***
 ## 📊 &nbsp;Stats
@@ -24,15 +25,16 @@
 ## 🛠 &nbsp;Tech Stack
 ### 👩‍💻 &nbsp;SO
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)&nbsp;
   
 ### 👩‍💻 &nbsp;Back-End
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=1572B6)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5)&nbsp;
+
    
 ### 🎨 &nbsp;Front-End
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
    
 
 ### ⚡ &nbsp;Database 
