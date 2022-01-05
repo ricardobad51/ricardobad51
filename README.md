@@ -10,7 +10,7 @@
 <div align="center">
    <h3> CONSTANTE APRENDIZADO </h3>
 </div>
-- 🎓 **MBA em Engenharia de Sistemas**.
+- 🎓 **MBA em Engenharia de Sistemas** &nbsp;
 - 🎓 **Bacharel em Ciência da Computação**
 
 ***
