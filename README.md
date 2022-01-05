@@ -32,9 +32,9 @@
 
    
 ### 🎨 &nbsp;Front-End
-![HTML](https://img.shields.io/badge/-HTML?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
    
 
 ### ⚡ &nbsp;Database 
