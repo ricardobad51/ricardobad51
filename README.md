@@ -27,10 +27,19 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows)&nbsp;
   
 ### 👩‍💻 &nbsp;Back-End
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=1572B6)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5)&nbsp;
+   
+### 🎨 &nbsp;Front-End
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+   
+
+### ⚡ &nbsp;Database 
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostreSQL](https://img.shields.io/badge/-PostreSQL-05122A?style=flat&logo=PostreSQL)&nbsp;
+
 
 <!---
 ricardobad51/ricardobad51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
