@@ -23,7 +23,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ### 👩‍💻 &nbsp;SO
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows)&nbsp;
   
 ### 👩‍💻 &nbsp;Back-End
