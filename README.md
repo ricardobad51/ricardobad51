@@ -1,4 +1,4 @@
-<h1 align="justify"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hy! Sou dev JAVA / JSF / SQLServer / HTML5 / CSS3 /  Aspirante a ReactJS </h1>
+<h1 align="justify"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Sou dev JAVA / JSF / SQLServer / HTML5 / CSS3 /  Aspirante a ReactJS </h1>
 <div align="center">
    <p>What you were afraid to do today will take the form of regret at the end of your life. I don't expect my path through life to be easy, just that the final destination is worth it. The past is like time, enjoy today's sun without thinking about yesterday's storm.</p>
 </div>
