@@ -10,6 +10,7 @@
 <div align="center">
    <h3> CONSTANTE APRENDIZADO </h3>
 </div>
+- 🎓 **Pós-graduação em Gestão de Riscos e Cibersegurança** &nbsp;
 - 🎓 **MBA em Engenharia de Sistemas** &nbsp;
 - 🎓 **Bacharel em Ciência da Computação**
 
@@ -24,7 +25,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ### 👩‍💻 &nbsp;SO
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian)&nbsp;
+![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)&nbsp;
   
 ### 👩‍💻 &nbsp;Back-End
@@ -35,9 +36,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
    
 
 ### ⚡ &nbsp;Database 
+![OracleDB](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostreSQL](https://img.shields.io/badge/-PostreSQL-05122A?style=flat&logo=PostreSQL)&nbsp;
